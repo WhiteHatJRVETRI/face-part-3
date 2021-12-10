@@ -1,0 +1,12 @@
+body{
+background-image:url("https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/07/medical-logo.jpg") ;
+background-position: center;
+background-size: cover;
+color: rgb(42, 88, 36);
+}
+h1{
+    background-color: bisque;
+    width: 70%;
+    font-size: 150px;
+
+}
